@@ -6,7 +6,6 @@ int main() {
     int arr[]={1,2,3,4,6,7,8,9};
     int key,i=0;
     int flag=0;
-    
     printf("Enter the element to be searched:");
     scanf("%d",&key);
     for(i=0;i<9;i++){
